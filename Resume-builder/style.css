@@ -1,0 +1,17 @@
+
+/* #cv-form{
+    display: none; 
+} */
+#cv-template{
+    display: none;
+}
+.myimg{
+    /* border: 1px solid gray; */
+    border-radius: 50%;
+}
+.bkg{
+    background-color: rgb(43, 202, 226);
+}
+.background{
+    background-color: aqua;
+}
